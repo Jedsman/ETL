@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="MS_SPOT_DEV_AdditionalParams" prompt="MS_SPOT_DEV_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Port" prompt="MS_SPOT_DEV_Port?" promptNeeded="false" type="id_String" value="9000"/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Login" prompt="MS_SPOT_DEV_Login?" promptNeeded="false" type="id_String" value="etl.loader"/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Password" prompt="MS_SPOT_DEV_Password?" promptNeeded="false" type="id_Password" value="A3AapGIzPCkxN8tAgQ5XvA=="/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Database" prompt="MS_SPOT_DEV_Database?" promptNeeded="false" type="id_String" value="ETL_Staging"/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Server" prompt="MS_SPOT_DEV_Server?" promptNeeded="false" type="id_String" value="127.0.0.1"/>
+  <contextParameter comment="" name="MS_SPOT_DEV_Schema" prompt="MS_SPOT_DEV_Schema?" promptNeeded="false" type="id_String" value="etl"/>
+</talendfile:ContextType>

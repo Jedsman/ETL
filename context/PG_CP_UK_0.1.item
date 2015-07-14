@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" confirmationNeeded="false" name="Default">
+  <contextParameter comment="" name="PG_CP_UK_Port" prompt="PG_CP_UK_Port?" promptNeeded="false" type="id_String" value="9500"/>
+  <contextParameter comment="" name="PG_CP_UK_Login" prompt="PG_CP_UK_Login?" promptNeeded="false" type="id_String" value="davidtodd"/>
+  <contextParameter comment="" name="PG_CP_UK_Password" prompt="PG_CP_UK_Password?" promptNeeded="false" type="id_Password" value="HWZRC91tJDG3sLZEHxfUm4y487cPJmlx"/>
+  <contextParameter comment="" name="PG_CP_UK_Database" prompt="PG_CP_UK_Database?" promptNeeded="false" type="id_String" value="cip_uk"/>
+  <contextParameter comment="" name="PG_CP_UK_Server" prompt="PG_CP_UK_Server?" promptNeeded="false" type="id_String" value="127.0.0.1"/>
+  <contextParameter comment="" name="PG_CP_UK_Schema" prompt="PG_CP_UK_Schema?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>
